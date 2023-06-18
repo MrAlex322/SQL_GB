@@ -1,0 +1,18 @@
+# General
+*.log
+
+# Database
+*.sqlite
+*.db
+*.bak
+*.sql
+*.sql.gz
+*.sql.zip
+
+# Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Config
+config.py
